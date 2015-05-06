@@ -11,61 +11,59 @@
 		<link rel="stylesheet" href="css/my-style.css" />	    
 	</head>
 	<body>
-		<div class="row my-header">
-			<header>
-				<nav>
-					<ul class="nav">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="sobre.php">Sobre</a></li>
-						<li><a href="produtos.php">Produtos</a></li>
-						<li><a href="novidades.php">Novidades</a></li>
-						<li><a href="contatos.php">Contatos</a></li>
-					</ul>
-				</nav>
+		<header>
+			<nav>
+				<ul class="nav">
+					<li><a href="index.php">Home</a></li>
+					<li><a href="sobre.php">Sobre</a></li>
+					<li><a href="produtos.php">Produtos</a></li>
+					<li><a href="novidades.php">Novidades</a></li>
+					<li><a href="contatos.php">Contatos</a></li>
+				</ul>
+			</nav>
 
-				<div class="my-logo">
-					<a href="#"><img src="img/Logo.png" alt="Logo - Polpa Toda Boa"></a>
+			<div class="my-logo">
+				<a href="#"><img src="img/Logo.png" alt="Logo - Polpa Toda Boa"></a>
+			</div>
+
+			<div class="redes-sociais">
+				<a href="#"><img src="img/facebook.png" alt="" /></a>
+				<a href="#"><img src="img/twiter.png" alt="" /></a>
+				<a href="#"><img src="img/youtube.png" alt="" /></a>
+			</div>
+
+			<div class="row">
+				<div id="my-carousel" class="carousel slide">
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img class="my-slide" src="img/Pizza.png" alt="slide - Pizza">
+						</div>
+						<div class="item">
+							<img class="my-slide" src="img/Logo.png" alt="slide - Pizza">
+						</div>
+						<div class="item">
+							<img class="my-slide" src="img/youtube.png" alt="slide - Pizza">
+						</div>
+					</div>									
+				</div> <!-- Carousel -->
+			</div>
+
+			<div class="row my-texto-slide">
+				<p>A Toda Boa traz o mais puro sabor da fruta,</p>
+				<p>para seus clientes!</p>
+				<div class="my-mais">
+					<span>+ Mais</span>
 				</div>
+			</div>
+		</header> <!-- Close header -->
 
-				<div class="redes-sociais">
-					<a href="#"><img src="img/facebook.png" alt="" /></a>
-					<a href="#"><img src="img/twiter.png" alt="" /></a>
-					<a href="#"><img src="img/youtube.png" alt="" /></a>
-				</div>
-
-				<div class="row">
-					<div id="my-carousel" class="carousel slide">
-						<!-- Wrapper for slides -->
-						<div class="carousel-inner">
-							<div class="active item">
-								<img class="my-slide" src="img/Pizza.png" alt="slide - Pizza">
-							</div>
-							<div class="item">
-								<img class="my-slide" src="img/Logo.png" alt="slide - Pizza">
-							</div>
-							<div class="item">
-								<img class="my-slide" src="img/youtube.png" alt="slide - Pizza">
-							</div>
-						</div>									
-					</div> <!-- Carousel -->
-				</div>
-
-				<div class="row my-texto-slide">
-					<p>A Toda Boa traz o mais puro sabor da fruta,</p>
-					<p>para seus clientes!</p>
-					<div class="my-mais">
-						<span>+ Mais</span>
-					</div>
-				</div>
-			</header> <!-- Close header -->
-		</div>
-
-		<div class="row my-section">
-			<section>
-				<hr />
-
-				<div class="row section">
-					<div class="media span5 section1">
+		<section>
+			<hr />
+				
+			<div class="row">
+				<div class="container">
+					<div class="media span5 section1 a">
 					    <img class="pull-left media-object" src="img/Logo.png" alt="" />	
 						<div class="media-body">
 							<h3 class="media-heading">Lorem ipisum</h3>
@@ -73,8 +71,7 @@
 							<a href="#">Mais +</a>
 						</div>
 					</div>
-
-					<div class="media span5 section1">
+					<div class="media span5 section1 b">
 					    <img class="pull-left media-object" src="img/Pizza.png" alt="" />	
 						<div class="media-body">
 							<h3 class="media-heading">Lorem ipisum</h3>
@@ -83,9 +80,48 @@
 						</div>
 					</div>
 				</div>
+			</div>
 
-			</section>
-		</div>
+			<hr class="hr2" />
+			
+			<div class="row">
+				<div class="container">
+					<div class="span3 my-siga">
+						<h2>Siga-nos:</h2>
+						<img class="my-img-siga" src="img/Logo.png" alt="" />
+						<a href="#"><img class="my-redes" src="img/facebook.png" alt="" /></a>
+						<a href="#"><img class="my-redes" src="img/twiter.png" alt="" /></a>
+					</div>
+				
+					<div class="my-sec-titulo">
+						<h3>Lorem ipisum</h3>
+					</div>
+					<div class="span3 sec sec1">
+						<img src="img/Pizza.png" alt="slide - Pizzas">
+						<p>Lorem ipsum eat amet dolor Lorem ipsum eat amet dolor Lorem ipsum eat amet dolor Lorem ipsum.</p>
+						<a href="#">Mais +</a>
+					</div>
+					<div class="span3 sec sec2">
+						<img src="img/Pizza.png" alt="slide - Pizzas">
+						<p>Lorem ipsum eat amet dolor Lorem ipsum eat amet dolor Lorem ipsum eat amet dolor Lorem ipsum.</p>
+						<a href="#">Mais +</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<hr class="hr3" />
+
+		<footer>
+			<div class="row">
+				<p>&copy; Todos os direitos reservados!</p>
+			</div>
+			<div class="redes-sociais">
+				<a href="#"><img src="img/facebook.png" alt="" /></a>
+				<a href="#"><img src="img/twiter.png" alt="" /></a>
+				<a href="#"><img src="img/youtube.png" alt="" /></a>
+			</div>
+		</footer>
 
 		<!-- ************ Scripts ********** -->
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
