@@ -1,0 +1,273 @@
+.my-section{
+	margin-top: 35px;
+}
+
+.my-slide{
+	width: 640px;
+	height: 350px;
+}
+
+.my-promocoes{
+	background-color: #228B22;
+	border-radius: 10px;
+	height: 350px;
+	padding: 13px 0;
+}
+
+.my-promocoes p{
+	font-size: 32px;
+	text-align: center;
+	color: #fff;
+}
+
+.my-p-promocoes{
+	padding-top: 10px;
+}
+
+.my-dialogo1{
+	background-color: red;
+	border-radius: 8px;
+	width: 90%;
+	margin: auto;
+	padding: 5px;
+}
+
+.my-dialogo2{
+	background-color: #fff;
+	border-radius: 8px;
+	width: 90%;
+	margin: auto;
+	margin-top: 15px;
+	padding: 5px;
+}
+
+.my-dialogo3{
+	background-color: #006400;
+	border-radius: 8px;
+	width: 90%;
+	margin: auto;
+	margin-top: 15px;
+	padding: 5px;
+}
+
+.my-dialogo1 h1{
+	font-size: 50px;
+	color: #fff;
+}
+
+.my-dialogo1 p{
+	font-size: 20px;
+	color: #fff;
+	margin-top: 7px;
+}
+
+.my-dialogo2 h1{
+	font-size: 50px;
+	color: #006400;
+}
+
+.my-dialogo2 p{
+	font-size: 20px;
+	color: #006400;
+	margin-top: 7px;
+}
+
+.my-dialogo3 h1{
+	font-size: 50px;
+	color: #fff;
+}
+
+.my-dialogo3 p{
+	font-size: 20px;
+	color: #fff;
+	margin-top: 7px;
+}
+
+.article3{
+	margin-top: 20px;
+}
+
+.thumbnail{
+	background-color: red;
+	padding: 10px;
+	border-radius: 8px;
+    float: left;
+    width: 285px;
+    margin: -30px 20px 0 0;
+}
+
+.thumbnail:last-child{
+    margin: -30px -20px 0 0;
+}
+
+.thumbnail h2{
+	color: #fff;
+	text-align: center;
+}
+
+.thumbnail img{
+    height: 200px;
+}
+
+.my-sociais{
+	background-color: red;
+	border-radius: 8px;
+	height: 270px;
+}
+
+.my-sociais h2{
+	color: #fff;
+	text-align: center;
+}
+
+.my-sociais img{
+	width: 90px;
+	border-radius: 100px;
+	margin: 40px -8px 0 43px;
+}
+
+/*--------- Localizacao -----------*/
+#map{
+  width: 100%;
+  height: 270px;
+  margin-bottom: 20px;
+  margin-top: -60px;
+  z-index: -1;
+}
+
+.localizacao{
+	position: relative;
+	z-index: 2;
+	background-color: red;
+	width: 280px;
+	background: -webkit-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1));
+    background: -o-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1));
+    background: -moz-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1));
+    background: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
+    margin-left: 5px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.localizacao h2{
+	color: #fff;
+	margin-left: 30px;
+}
+/*--------- Footer -----------*/
+.my-footer{
+	background-color: #006400;
+	color: #fff;
+}
+
+.my-copy, .my-address, .my-agencia{
+	float: left;
+}
+
+.my-copy{
+	margin: 30px 0 0 -60px;
+}
+
+.my-address{
+	margin: 10px 0 0 250px;
+}
+
+address p{
+	text-align: center;
+}
+
+.my-agencia{
+	margin: 10px -100px 0 350px;
+}
+
+/* ********* Pagina - Mercatos ********** */
+.article-mercatos{
+	margin-top: -20px;
+}
+
+.my-mercatos h2{
+	font-size: 38px;
+	margin-top: -10px;
+	text-align: center;
+}
+
+.my-mercatos p{
+	font-size: 18px;
+	margin-top: 20px;
+	text-align: justify;
+}
+
+.my-mercatos-img img{
+	height: 100%;
+}
+
+/* ********* Pagina - Cardapio ********** */
+
+.article-cardapio{
+	margin-bottom: 50px;
+}
+
+.article-cardapio-fim{
+	margin-bottom: 20px;
+}
+
+.my-cardapio-titulo{
+	font-size: 28px;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+
+.my-cardapio{
+    width: 203px;
+}
+
+.my-cardapio h2{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+
+.my-cardapio img{
+    height: 150px;
+}
+
+.my-cardapio p{
+    margin-top: 10px;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* ********* Pagina - Contato ********** */
+.article-contato{
+	margin-top: -40px;
+}
+
+.my-contato-form form{
+	width: 480px;
+	margin: 5px auto;
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.my-contato-form form label{
+	font-size: 24px;
+	display: block;
+	padding: 5px 0 2px 0;
+}
+
+.my-contato-form form textarea{
+	width: 470px;
+	border-radius: 6px;
+}
+
+.my-contato-form form input{
+	width: 460px; 
+	padding: 5px;
+	border-radius: 6px;
+}
+
+.my-contato-form form input.botao{
+	width:235px;
+	background-color: #006400;
+	color: #fff;
+}
