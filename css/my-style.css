@@ -3,11 +3,11 @@ body{
 }
 
 .container{
-	width: 800px;
+	width: 860px;
 }
 
-.my-header{
-	margin-top: 60px;
+header{
+	margin-top: -30px;
 }
 
 /*--------- Logo -----------*/
@@ -15,21 +15,21 @@ body{
 	position: absolute;
 	z-index: 1;
 	float: left;
-	margin-top: -90px;
+	margin-top: -160px;
 	left: 40%;
+	margin-left: -85px;
 }
 
 .my-logo img{
-	width: 200px;
-	height: 300px;
+	width: 385px;
 }
 
 /*--------- Menu -----------*/
 nav{
 	position: relative;
 	z-index: 0;
-	padding: 20px 20px 40px 10px;
-	background-color: yellow;
+	padding: 25px 20px 45px 10px;
+	background-color: #fcc000;
 	margin-top: 120px;
 }
 
@@ -40,13 +40,13 @@ nav ul{
 nav ul li{
 	float: left;
 	padding: 0 2px;
-	color: green;
+	color: #009036;
 }
 
 nav ul li a:after{
 	padding: 0 4px;
 	content: " | ";
-	color: green;
+	color: #009036;
 }
 
 nav ul li:last-child > a:after{
@@ -54,12 +54,13 @@ nav ul li:last-child > a:after{
 }
 
 nav ul li a{
+	font-weight: bolder;
 	font-size: 18px;
-	color: green;
+	color: #009036;
 }
 
 nav ul li a:hover{
-	background-color: yellow !important;
+	background-color: #fcc000 !important;
 	color: #fff;
 }
 
@@ -67,7 +68,7 @@ nav ul li a:hover{
 .redes-sociais{
 	position: absolute;
 	z-index: 2;
-	margin-top: -45px;
+	margin-top: -50px;
 	margin-left: 30px;
 }
 
@@ -80,32 +81,33 @@ nav ul li a:hover{
 /*--------- Slide -----------*/
 .my-slide{
 	width: 100%;
-	height: 350px;
-	margin-top: 80px;
+	margin-top: 85px;
 }
 
 .my-texto-slide p{
 	margin-top: 30px;
-	font-size: 36px;
+	font-size: 44px;
 	text-align: center;
 	font-weight: bolder;
 }
 
 .my-mais{
-	width: 60px;
-	height: 60px;
-	background-color: green;
-	border-radius: 30px;
-	margin-top: 20px;
+	width: 80px;
+	height: 80px;
+	background-color: #cad805;
+	border-radius: 100px;
+	margin-top: 15px;
 	position: absolute;
 	left: 45%;
 }
 
 .my-mais span{
 	color: #fff;
+	font-weight: bolder;
+	font-size: 16px;
 	position: relative;
-	top: 30%;
-	left: 13%;
+	top: 35%;
+	left: 18%;
 }
 
 /*--------- Section -----------*/
@@ -124,11 +126,13 @@ hr{
 }
 
 .section1:last-child{	
-	margin-right: -110px;
+	margin-right: -100px;
+	margin-top: -5px;
 }
 
 .section1{
-	margin: 0 0 50px 0;
+	margin-left: -30px;
+	margin-bottom: 50px;
 }
 
 .section1 h3{
@@ -137,18 +141,20 @@ hr{
 }
 
 .section1 p{
-	font-size: 15.5px;
+	font-size: 18px;
+	color: #8B8386;
 }
 
 .section1 a{
+	text-decoration: none;
+	font-size: 16px;
 	font-weight: bold;
 	color: #000;
-	margin-left: 100px;
+	margin-left: 120px;
 }
 
 .section1 img{
-	width: 130px;
-	height: 170px;
+	width: 180px;
 }
 
 .hr2{
@@ -156,7 +162,7 @@ hr{
 }
 
 .my-siga{
-	background-color: yellow;
+	background-color: #fcc000;
 	border-radius: 20px;
 	width: 200px;
 	height: 300px;
@@ -170,10 +176,9 @@ hr{
 }
 
 .my-img-siga{
-	width: 90px;
-	height: 130px;
+	width: 125px;
 	position: absolute;
-	margin: 0 0 30px 55px;
+	margin: 0 0 30px 41px;
 }
 
 .my-redes{
@@ -198,11 +203,15 @@ hr{
 }
 
 .sec p{
-	margin-top: 10px;
+	color: #8B8386;
+	font-size: 16px;
+	margin-top: 20px;
 }
 
 .sec a{
+	text-decoration: none;
 	color: #000;
+	font-size: 16px;
 	font-weight: bolder;
 }
 
@@ -247,12 +256,12 @@ footer .redes-sociais{
 .my-produto{
     width: 180px;
     float: left;
-	margin-right: 15px;
+	margin-right: 50px;
 	margin-bottom: 15px;
 }
 
 .my-produto:last-child{
-	margin-right: -15px;
+	margin-right: -50px;
 }
 
 .my-produto h2{
@@ -301,6 +310,6 @@ footer .redes-sociais{
 
 .my-contato-form form input.botao{
 	width:235px;
-	background-color: #006400;
+	background-color: #009036;
 	color: #fff;
 }

@@ -37,13 +37,13 @@
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
 						<div class="active item">
-							<img class="my-slide" src="img/Pizza.png" alt="slide - Pizza">
+							<img class="my-slide" src="img/frutas-slide.png" alt="slide - Frutas">
 						</div>
 						<div class="item">
-							<img class="my-slide" src="img/Logo.png" alt="slide - Pizza">
+							<img class="my-slide" src="img/frutas-slide.png" alt="slide - Pizza">
 						</div>
 						<div class="item">
-							<img class="my-slide" src="img/youtube.png" alt="slide - Pizza">
+							<img class="my-slide" src="img/frutas-slide.png" alt="slide - Pizza">
 						</div>
 					</div>									
 				</div> <!-- Carousel -->
@@ -52,9 +52,11 @@
 			<div class="row my-texto-slide">
 				<p>A Toda Boa traz o mais puro sabor da fruta,</p>
 				<p>para seus clientes!</p>
+				<a href="#">
 				<div class="my-mais">
 					<span>+ Mais</span>
 				</div>
+				</a>
 			</div>
 		</header> <!-- Close header -->
 		<hr />

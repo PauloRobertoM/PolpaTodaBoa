@@ -15,25 +15,25 @@
 					<div class="row">
 						<div class="thumbnail my-produto">
 							<h2>Cajá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Maracujá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Uva</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Morango</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
@@ -42,25 +42,25 @@
 					<div class="row">
 						<div class="thumbnail my-produto">
 							<h2>Cajá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Maracujá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Uva</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Morango</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
@@ -69,25 +69,25 @@
 					<div class="row">
 						<div class="thumbnail my-produto">
 							<h2>Cajá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Maracujá</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Uva</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
 						<div class="thumbnail my-produto">
 							<h2>Morango</h2>
-							<img src="img/Pizza.png" alt="Produtos - Polpas">
+							<img src="img/maca.png" alt="Produtos - Polpas">
 							<p>Lorem ipsum dolor sit amet</p>
 							<p>Preço: R$ 00,00</p>
 						</div>
