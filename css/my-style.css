@@ -222,3 +222,85 @@ footer .redes-sociais{
 	position: absolute;
 	left: 85%;
 }
+
+/* ************ Pagina SOBRE ************ */
+.my-polpa{
+	margin-top: -30px;
+}
+
+.my-polpa h2{
+	margin-bottom: 20px;
+}
+
+.my-polpa-img img{
+	margin-top: -10px;
+	height: 340px;
+}
+
+/* ************ Pagina PRODUTOS e NOVIDADES ************ */
+.my-produto-titulo{
+	font-size: 26px;
+	margin-top: -25px;
+	margin-bottom: 20px;
+}
+
+.my-produto{
+    width: 180px;
+    float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.my-produto:last-child{
+	margin-right: -15px;
+}
+
+.my-produto h2{
+	text-align: center;
+	font-size: 18px;
+}
+
+.my-produto img{
+    height: 140px;
+}
+
+.my-produto p{
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* ********* Pagina - CONTATOS ********** */
+.my-contato{
+	margin-top: -25px;
+}
+
+.my-contato-form form{
+	width: 480px;
+	margin: 5px auto;
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.my-contato-form form label{
+	font-size: 24px;
+	display: block;
+	padding: 5px 0 2px 0;
+}
+
+.my-contato-form form textarea{
+	width: 470px;
+	border-radius: 6px;
+}
+
+.my-contato-form form input{
+	width: 460px; 
+	padding: 5px;
+	border-radius: 6px;
+}
+
+.my-contato-form form input.botao{
+	width:235px;
+	background-color: #006400;
+	color: #fff;
+}
